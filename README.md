@@ -42,7 +42,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://github.com/dayanand-g/Portfolio)**
+To view a live example, **[click here](https://dayanand-g.github.io/Portfolio/)**
 
 ## Tools Used 🛠️
 
